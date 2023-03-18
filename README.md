@@ -1,6 +1,10 @@
 ![netflixImg1](https://user-images.githubusercontent.com/102963340/226110798-bbd60cd1-f1c9-4fb5-a765-c4b5d6c81c3f.png)
 
+
 ![netflixImg2](https://user-images.githubusercontent.com/102963340/226110969-63b5a4aa-3992-4249-b956-ad1ee71565ad.png)
+
+
+![netflixImg3](https://user-images.githubusercontent.com/102963340/226111208-36a08d1d-30d2-4ba1-865e-8a2925ee9c6e.png)
 
 # Getting Started with Create React App
 
